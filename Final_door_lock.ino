@@ -17,8 +17,8 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "Kepler"    
-#define WIFI_PASS         "omdhawan"
+#define WIFI_SSID         "Put ur Wi-FI SSID"    
+#define WIFI_PASS         "Put ur Wi-FI Password"
 #define APP_KEY           "ae4b8d90-d8ff-4e90-b8c6-e8e765e9eb63"      
 #define APP_SECRET        "8349fce2-acf3-45c7-819e-ef43a18172e5-0944b78c-e7e0-4298-b1b0-bcc49d8c46da"   
 #define SWITCH_ID         "63d69e6c22e49e3cb5f312fc"  
